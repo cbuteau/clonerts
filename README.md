@@ -6,6 +6,11 @@ A overly simple RTS with block graphics that people can fork and make their own.
 
 Very simple like block graphics and sounds made by me and my friends.
 
+## status
+
+Lets try pixijs next....
+https://github.com/kittykatattack/learningPixi#introduction
+
 
 ## Choose a 2D engine.
 
