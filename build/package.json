@@ -19,6 +19,7 @@
   },
   "scripts": {
     "build": "grunt",
+    "start": "npm run build && grunt serve",
     "serve": "npm run build && grunt serve",
     "dist": "grunt dist",
     "preinstall": "npx npm-force-resolutions"

@@ -20,11 +20,26 @@ Get a block person to build a block farm.
 
 + [ ] Get 2D engine running in electron app.
 
-Get this boilerplate project running in electron first.
-https://github.com/melonjs/boilerplate
+Melon is abandonded...PIXIJS is the new thing.
+https://github.com/kittykatattack/learningPixi
 
+
+## Unit names
+
++ Worker/Farmer
++ Fighter
++ Archer
++ Siege
++ Healer
 
 ## Ideas
 
 + [ ] Create funny ideas that people will have trouble throwing away.
 + [ ] To make new units the other units have to have sex...which MEANS they are not working.
++ [ ] Everytime a base (worker) is clicked 5 times a random phrase is utttered.
+
+### Random Phrases
+
++ Clicking Clicking clikcing....CHOOSE an action really.
++ Why do you bother me so master?
++ That tickles.
