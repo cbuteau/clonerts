@@ -23,11 +23,18 @@ Get a block person to build a block farm.
 Melon is abandonded...PIXIJS is the new thing.
 https://github.com/kittykatattack/learningPixi
 
+Need to load a prite and then have it respond to directions.
+Installed TexturePacker for sprite sheets.
+GraphicsGale to make sprites.
+
+Goal make sprite sheet. with Worker and then put on screen and have respond to mouse movements.
+
+
 
 ## Unit names
 
-+ Worker/Farmer
-+ Fighter
++ Worker/Farmer/Dudely
++ Fighter/farter
 + Archer
 + Siege
 + Healer
