@@ -29,6 +29,8 @@ GraphicsGale to make sprites.
 
 Goal make sprite sheet. with Worker and then put on screen and have respond to mouse movements.
 
+IF we make it a network game...use WebRTC.
+https://www.youtube.com/watch?v=WmR9IMUD_CY
 
 
 ## Unit names
