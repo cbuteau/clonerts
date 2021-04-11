@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=WmR9IMUD_CY
 
 ## Unit names
 
-+ Worker/Farmer/Dudely
++ Worker/Farmer/Dudely/Dudess
 + Fighter/farter
 + Archer
 + Siege
@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=WmR9IMUD_CY
 
 + [ ] Create funny ideas that people will have trouble throwing away.
 + [ ] To make new units the other units have to have sex...which MEANS they are not working.
-+ [ ] Everytime a base (worker) is clicked 5 times a random phrase is utttered.
++ [ ] Everytime a base (worker) is clicked 5 times a random phrase is uttered.
 
 ### Random Phrases
 
