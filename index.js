@@ -4,7 +4,7 @@ if(!PIXI.utils.isWebGLSupported()){
   type = "canvas"
 }
 
-PIXI.utils.sayHello(type)
+//PIXI.utils.sayHello(type)
 //Create a Pixi Application
 let canvas = document.getElementById('mycanvas');
 let app = new PIXI.Application({
@@ -13,3 +13,9 @@ let app = new PIXI.Application({
   height: window.innerHeight,
   backgroundColor: 0x228B22
 });
+
+//var container = new PIXI.Container();
+//container.addChild(game);
+//
+//app.stage.addChild(game)
+//app.renderer.render(pixiApp.stage);

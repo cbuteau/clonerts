@@ -9,6 +9,8 @@ const url = require('url');
 // be closed automatically when the javascript object is GCed.
 let mainWindow;
 
+process.env['ELECTRON_DISABLE_SECURITY_WARNINGS'] = 'true';
+
 // Quit when all windows are closed.
 app.on('window-all-closed', () => {
   if (process.platform != 'darwin')
